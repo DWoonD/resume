@@ -4,9 +4,9 @@
 
 **Telefone:** (19) 3551 0053
 
-**Blog:** [http://dwoond.github.io](Willian Santos)
+**Blog:** [Willian Santos](http://dwoond.github.io)
 
-**[https://linkedin.com/in/williandsantos](LinkedIn)**
+**[LinkedIn](https://linkedin.com/in/williandsantos)**
 
 **Email:** willslliw@yahoo.com.br
 
@@ -27,17 +27,17 @@ Outro hobby que tenho é programar jogos, espero estar trazendo coisas novas em 
 
 ##Habilidades
 
- *HTML5 e CSS3 (intermediário)
- *PHP e MySQL (básico, CRUD)
- *Javascript (básico, estudando bastante)
- *Jquery (basico/intermediário, já consigo me virar manipulando o DOM, mas acredito que posso melhorar performance e escrita)
- *Stylus e SASS (básico)
- *Design Responsivo (Skeleton Grid)
- *Gulp (em projetos pessoais)
- *Git (Github e Bitbucket)
+ * HTML5 e CSS3 (intermediário)
+ * PHP e MySQL (básico, CRUD)
+ * Javascript (básico, estudando bastante)
+ * Jquery (basico/intermediário, já consigo me virar manipulando o DOM, mas acredito que posso melhorar performance e escrita)
+ * Stylus e SASS (básico)
+ * Design Responsivo (Skeleton Grid)
+ * Gulp (em projetos pessoais)
+ * Git (Github e Bitbucket)
  
  ##Experiência Profissional
- **Desenvolvedor Web** - [http://wdesign.com.br](WDesign e Associadoss)
+ **Desenvolvedor Web** - [WDesign e Associadoss](http://wdesign.com.br)
  >Desenvolvo sites para os clientes da agência usando sempre o grid Skeleton e também o máximo possível de CSS3, também crio o sistema que usamos para que o próprio cliente possa alterar informações como textos e fotos do próprio site. **Principais conquistas:** Implantei o Git para fazermos versionamento de código quando trabalhamos em dois desenvolvedores e implantei a base para que os sites sejam desenvolvido, com grid, reset.css, estrutura de pastas etc.
  
  
