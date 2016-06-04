@@ -30,7 +30,7 @@ Outro hobby que tenho é programar jogos, espero estar trazendo coisas novas em 
  * HTML5 e CSS3 (intermediário)
  * PHP e MySQL (básico, CRUD)
  * Javascript (básico, estudando bastante)
- * Jquery (basico/intermediário, já consigo me virar manipulando o DOM, mas acredito que posso melhorar performance e escrita)
+ * Jquery (básico/intermediário, já consigo me virar manipulando o DOM, mas acredito que posso melhorar performance e escrita)
  * Stylus e SASS (básico)
  * Design Responsivo (Skeleton Grid)
  * Gulp (em projetos pessoais)
