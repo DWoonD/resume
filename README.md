@@ -19,7 +19,7 @@ Já em 2015 foquei ainda mais e _Javascript_ e também comecei a aprender mais s
 
 Estudo informática desde os meus 8 anos, sempre gostei de fuçar e aprender coisas novas e já passei por tudo no pc, hardware, design, desenhista projetista, mas foi na programação que me encontrei. O primeiro contato foi com pascal ainda no colegial e depois disso passei a mecher com Delphi e depois aprendi em um curso profissionalizante a fazer sites.
 
-No meu tempo livro eu me dedico a realizar pequenos projetos, que começaram fortemente esse ano, estou trabalhando em um simulador que pinta figuras em SVG que em breve vai estar aqui no GitHub para a comunidade, tenho uns estudos em Javascript, CSS e PHP. Talvez em breve eu traga um miniframework também (Meu plano mais audacioso quando estiver mais pro seria criar um próprio compilador CSS para fazer umas coisas que senti falta nos SASS e Stylus X_X)
+No meu tempo livro eu me dedico a realizar pequenos projetos, que começaram fortemente esse ano, estou trabalhando em um simulador que pinta figuras em SVG que em breve vai estar aqui no GitHub para a comunidade, tenho uns estudos em Javascript, CSS e PHP. Talvez em breve eu traga um miniframework também.
 
 Gosto de estar sempre me aprimorando através de eventos e também de livros e sempre que posso busco poder escrever no meu blog ou no médium.
 
@@ -28,13 +28,14 @@ Outro hobby que tenho é programar jogos, espero estar trazendo coisas novas em 
 ##Habilidades
 
  * HTML5 e CSS3 (intermediário)
- * PHP e MySQL (básico, CRUD)
+ * PHP e MySQL (intermediário, CRUD)
  * Javascript (básico, estudando bastante)
  * Jquery (básico/intermediário, já consigo me virar manipulando o DOM, mas acredito que posso melhorar performance e escrita)
  * Stylus e SASS (básico)
  * Design Responsivo (Skeleton Grid)
  * Gulp (em projetos pessoais)
  * Git (Github e Bitbucket)
+ * CodeIgniter
  
  ##Experiência Profissional
  **Desenvolvedor Web** - [WDesign e Associadoss](http://wdesign.com.br)
