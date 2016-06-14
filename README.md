@@ -61,7 +61,7 @@ Outro hobby que tenho é programar jogos, espero estar trazendo coisas novas em 
 
 [W2L Divulgação](http://w2ldivulgacao.com) - Utilizei o CodeIgniter porque o projeto pode crescer de uma forma bem bacana e teria uma organização melhor.
 
-[Maestria Design](http://maestriadesign.com.br) - Utilizei skeleton como grid, HTML5  e CSS3 para poder criar esse projeto.
+[Maestria Design](http://maestriadesign.com.br) - Utilizei skeleton como grid, HTML5  e CSS3 para poder criar esse projeto. Nesse site eu busquei colocar o máximo de conhecimento em performance para o site mesmo não utilizando os automatizadores. Agora o próximo passo é melhorar o SEO
 
 [Sindicato Sintramomar](http://sintramomar.com.br) - Utilizei skeleton como grid, HTML5 e CSS3 para criar esse projeto, o mesmo é estático.
 
