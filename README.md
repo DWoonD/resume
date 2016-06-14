@@ -40,20 +40,29 @@ Outro hobby que tenho é programar jogos, espero estar trazendo coisas novas em 
 ##Experiência Profissional
 **Desenvolvedor Web** - [WDesign e Associadoss](http://wdesign.com.br)
 >Desenvolvo sites para os clientes da agência usando sempre o grid Skeleton e também o máximo possível de CSS3, também crio o sistema que usamos para que o próprio cliente possa alterar informações como textos e fotos do próprio site. **Principais conquistas:** Implantei o Git para fazermos versionamento de código quando trabalhamos em dois desenvolvedores e implantei a base para que os sites sejam desenvolvido, com grid, reset.css, estrutura de pastas etc.
+
  
 **Alguns sites que fiz na agência (apenas programação)**
+
 [Genaltec](http://genaltec.com.br) - Trabalhei em toda a criação do front utlizando skeleton, jquery e css e na implantação de back end.
+
 [Eurocar](http://eurocarmultimarcas.com) - Trabalhei na criação do front.
+
 [Método WD](http://metodowd.com.br) - Trabalhei na implantação do wordpress e na alteração do tema através de temas filhos.
+
 [Megaline Embalagens](http://megalineembalagens.com.br) - Trabalhei na criação do front e ajudei com o back end.
+
 [Baepi - Simulador](http://www.baepi.com.br/simulador/) - Fiz a criação desse simulador usando jquery e svg, para mim foi o meu melhor projeto que tive até agora e o mais desafiador. Até então não tinha muita experiência com jquery ou javascript e muito menos com SVG, o antigo simulador era em flash e com o desudo da tecnologia tivemos que migrar e foi ai que aceitei o desafio e fiz toda a implementação do mesmo.
 
 **Desenvolvedor Web** - Freelancer
 >Faço freelas desde 2011 e depois que passei por uma agência isso me ajudou muito a melhorar e encontrar mais e mais formas de aprimorar como pessoa e profissionalmente. No início utilizava muito imagens com fundo em divs para poder fazer os sites, hoje já consigo ter uma semântica mil vezes melhor com **HTML5** e grids, e atualmente (2016) estou estudando grids semantigos através de pré-processadores. Conheço o básico de **SASS e Stylus** (vou dar prefência para Stylus) e consigo ter uma stack de desenvolvimento otimizada através de gulpe e outras coisas que estudei, como minimificação de CSS e JS, otimização de imagens e várias outras coisas bacanas. Também aprimorei meu backend e passei a utilizar **CodeIgniter** para o backend e projetos mais grandinhos que vão escalonar melhor com o framework.
 
-Abaixo segue alguns projetos feito por último
+**Abaixo segue meus últimos projetos**
+
 [W2L Divulgação](http://w2ldivulgacao.com) - Utilizei o CodeIgniter porque o projeto pode crescer de uma forma bem bacana e teria uma organização melhor.
+
 [Maestria Design](http://maestriadesign.com.br) - Utilizei skeleton como grid, HTML5  e CSS3 para poder criar esse projeto.
+
 [Sindicato Sintramomar](http://sintramomar.com.br) - Utilizei skeleton como grid, HTML5 e CSS3 para criar esse projeto, o mesmo é estático.
 
  
