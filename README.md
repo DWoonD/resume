@@ -1,8 +1,8 @@
 # Willian Diego Alves dos Santos
 
-**Localização:** Araras - SP - Brasil
+**Localização:** São Paulo - SP - Brasil
 
-**Telefone:** (19) 3551 0053
+**Telefone:** (11) 9 6309 7009
 
 **Blog:** [Willian Santos](http://dwoond.github.io)
 
@@ -48,8 +48,6 @@ Outro hobby que tenho é programar jogos, espero estar trazendo coisas novas em 
 
 [Eurocar](http://eurocarmultimarcas.com) - Trabalhei na criação do front.
 
-[Método WD](http://metodowd.com.br) - Trabalhei na implantação do wordpress e na alteração do tema através de temas filhos.
-
 [Megaline Embalagens](http://megalineembalagens.com.br) - Trabalhei na criação do front e ajudei com o back end.
 
 [Baepi - Simulador](http://www.baepi.com.br/simulador/) - Fiz a criação desse simulador usando jquery e svg, para mim foi o meu melhor projeto que tive até agora e o mais desafiador. Até então não tinha muita experiência com jquery ou javascript e muito menos com SVG, o antigo simulador era em flash e com o desudo da tecnologia tivemos que migrar e foi ai que aceitei o desafio e fiz toda a implementação do mesmo.
@@ -60,8 +58,6 @@ Outro hobby que tenho é programar jogos, espero estar trazendo coisas novas em 
 **Abaixo segue meus últimos projetos**
 
 [W2L Divulgação](http://w2ldivulgacao.com) - Utilizei o CodeIgniter porque o projeto pode crescer de uma forma bem bacana e teria uma organização melhor.
-
-[Maestria Design](http://maestriadesign.com.br) - Utilizei skeleton como grid, HTML5  e CSS3 para poder criar esse projeto. Nesse site eu busquei colocar o máximo de conhecimento em performance para o site mesmo não utilizando os automatizadores. Agora o próximo passo é melhorar o SEO
 
 [Sindicato Sintramomar](http://sintramomar.com.br) - Utilizei skeleton como grid, HTML5 e CSS3 para criar esse projeto, o mesmo é estático.
 
