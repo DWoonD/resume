@@ -17,15 +17,15 @@ Em 2013 comecei a aprimorar mais e estudar _HTML5 E CSS3_ para poder oferecer ma
 No final de 2014 entrei de fato em uma agência aqui no interior e comecei a focar mais ainda em Front-End, estudando _Javascript_ e me aprimorando em _Design Responsivo_, estudei um pouco de _SEO_ e como melhorar a otimização do site e também um pouco de _Wordpress_.
 Já em 2015 foquei ainda mais e _Javascript_ e também comecei a aprender mais sobre _PHP e MySQL_ para conseguir fazer sites mais dinâmicos e com sistemas próprios para os clientes terem mais autonomia. Uma vez que fiquei sozinho na agência comecei a desempenhar o papel de _FullStack Developer_.
 Em 2016 me mudei para São Paulo Capital e comecei a atuar numa empresa multinacional como front end analyst developer prestando serviços de Front End para uma empresa Multinacional do setor financeiro, com sede na Espanha. Trabalhamos num projeto que iria atualizar o sistemas utilizados nas agências e no backoffice da companhia, utilizando como base o framework do Google Angular2. Continuei me aprimorando no framework e sempre vendo maneira de melhorar a performance da aplicação, nesse tempo todo que fiquei nesse projeto tive oportunidade de ir desde arquitetura e planejamento, desenvolvimento e depois sustentação do mesmo, foi uma ótima experiência e pude aprender muito com eles.
-Agora no momento estou prestando serviços para uma Empresa aqui em São Caetano do ramo de varejo, onde também estou atuando com angular 2 e num projeto que visa facilidar o dia a dia dos vendedores de suas lojas.
+Agora no momento estou prestando serviços para uma Empresa aqui em São Caetano do ramo de varejo, onde também estou atuando com angular 2 e num projeto que visa facilitar o dia a dia dos vendedores de suas lojas.
 
-Estudo informática desde os meus 8 anos, sempre gostei de fuçar e aprender coisas novas e já passei por tudo no pc, hardware, design, desenhista projetista, mas foi na programação que me encontrei. O primeiro contato foi com pascal ainda no colegial e depois disso passei a mecher com Delphi e depois aprendi em um curso profissionalizante a fazer sites.
+Estudo informática desde os meus 8 anos, sempre gostei de fuçar e aprender coisas novas e já passei por tudo no pc, hardware, design, desenhista projetista, mas foi na programação que me encontrei. O primeiro contato foi com pascal ainda no colegial e depois disso passei a mexer com Delphi e depois aprendi em um curso profissionalizante a fazer sites.
 
-No meu tempo livre eu me dedico a realizar pequenos projetos, que contribuiem para meu aprendizado e também para novos conhecimentos, alguns deles pretendo trazer aqui para o github, outros são segredos ;).
+No meu tempo livre eu me dedico a realizar pequenos projetos, que contribuem para meu aprendizado e também para novos conhecimentos, alguns deles pretendo trazer aqui para o github, outros são segredos ;).
 
 Gosto de estar sempre me aprimorando através de eventos e também de livros e sempre que posso busco poder escrever no meu blog ou no médium.
 
-Outro hobby que tenho é programar jogos, espero estar trazendo coisas novas em breve, e também andar de bicleta e ficar babando no meu filhão que está cada dia mais esperto *-*
+Outro hobby que tenho é programar jogos, espero estar trazendo coisas novas em breve, e também andar de bicicleta e ficar babando no meu filhão que está cada dia mais esperto *-*
 
 ## Habilidades
 
@@ -49,13 +49,13 @@ Outro hobby que tenho é programar jogos, espero estar trazendo coisas novas em 
  
 **Alguns sites que fiz na agência (apenas programação)**
 
-[Genaltec](http://genaltec.com.br) - Trabalhei em toda a criação do front utlizando skeleton, jquery e css e na implantação de back end.
+[Genaltec](http://genaltec.com.br) - Trabalhei em toda a criação do front utilizando skeleton, jquery e css e na implantação de back end.
 
 [Eurocar](http://eurocarmultimarcas.com) - Trabalhei na criação do front.
 
 [Megaline Embalagens](http://megalineembalagens.com.br) - Trabalhei na criação do front e ajudei com o back end.
 
-[Baepi - Simulador](http://www.baepi.com.br/simulador/) - Fiz a criação desse simulador usando jquery e svg, para mim foi o meu melhor projeto que tive até agora e o mais desafiador. Até então não tinha muita experiência com jquery ou javascript e muito menos com SVG, o antigo simulador era em flash e com o desudo da tecnologia tivemos que migrar e foi ai que aceitei o desafio e fiz toda a implementação do mesmo.
+[Baepi - Simulador](http://www.baepi.com.br/simulador/) - Fiz a criação desse simulador usando jquery e svg, para mim foi o meu melhor projeto que tive até agora e o mais desafiador. Até então não tinha muita experiência com jquery ou javascript e muito menos com SVG, o antigo simulador era em flash e com o desuso da tecnologia tivemos que migrar e foi aí que aceitei o desafio e fiz toda a implementação do mesmo.
 
 **Desenvolvedor Web** - Freelancer
->Faço freelas desde 2011 e depois que passei por uma agência isso me ajudou muito a melhorar e encontrar mais e mais formas de aprimorar como pessoa e profissionalmente. No início utilizava muito imagens com fundo em divs para poder fazer os sites, hoje já consigo ter uma semântica mil vezes melhor com **HTML5** e grids, e atualmente (2016) estou estudando grids semantigos através de pré-processadores. Conheço o básico de **SASS e Stylus** (vou dar prefência para Stylus) e consigo ter uma stack de desenvolvimento otimizada através de gulpe e outras coisas que estudei, como minimificação de CSS e JS, otimização de imagens e várias outras coisas bacanas. Também aprimorei meu backend e passei a utilizar **CodeIgniter** para o backend e projetos mais grandinhos que vão escalonar melhor com o framework.
+>Faço freelas desde 2011 e depois que passei por uma agência isso me ajudou muito a melhorar e encontrar mais e mais formas de aprimorar como pessoa e profissionalmente. No início utilizava muito imagens com fundo em divs para poder fazer os sites, hoje já consigo ter uma semântica mil vezes melhor com **HTML5** e grids, e atualmente (2016) estou estudando grids semânticos através de pré-processadores. Conheço o básico de **SASS e Stylus** (vou dar preferência para Stylus) e consigo ter uma stack de desenvolvimento otimizada através de gulp e outras coisas que estudei, como minificação de CSS e JS, otimização de imagens e várias outras coisas bacanas. Também aprimorei meu backend e passei a utilizar **CodeIgniter** para o backend e projetos mais grandinhos que vão escalonar melhor com o framework.
