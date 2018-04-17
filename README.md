@@ -12,18 +12,23 @@
 
 ## Sobre
 
-Desde 2011 trabalho como freelancer construindo sites para internet, comecei com o básico criando sites estáticos com _HTML e CSS_, para alguns clientes aqui no interior.
-Em 2013 comecei a aprimorar mais e estudar _HTML5 E CSS3_ para poder oferecer mais aos clientes no que diz respeito ao design e poder deixar os sites mais leves, sem ter que recortar tantas imagens.
-No final de 2014 entrei de fato em uma agência aqui no interior e comecei a focar mais ainda em Front-End, estudando _Javascript_ e me aprimorando em _Design Responsivo_, estudei um pouco de _SEO_ e como melhorar a otimização do site e também um pouco de _Wordpress_.
-Já em 2015 foquei ainda mais e _Javascript_ e também comecei a aprender mais sobre _PHP e MySQL_ para conseguir fazer sites mais dinâmicos e com sistemas próprios para os clientes terem mais autonomia. Uma vez que fiquei sozinho na agência comecei a desempenhar o papel de _FullStack Developer_.
+Oi, me chamo Willian e sou Dev :p
+Atualmente eu trabalho com front end, mas também tenho experiência com backend e tento me manter a par de tudo, seja testes ou devops.
+Minha principal stack de desenvolvimento hoje é o Angular. Atualmente trabalho numa grande empresa de varejo, na qual já participei no projeto em que estavamos renovando totalmente o sistema de vendas deles, desde a loja até a parte web.
+Utilizamos angular, sass, jasmine, consumo de api restfull entre outros. Atualmente estou em outro projeto da mesma empresa atendendo especificamente a venda de mobile e planos mobile. Também utilizando Angular, sass, jasmine, etc mas aqui também temos mais liberdade para poder explorar coisas novas, então utilizamos formulários reativos do angular ou invés de template-driven e foi uma experiência bem bacana.
+
+Trabalho com web desde 2011, quando atuava com freelances mas utilizava apenas o básico de HTML E CSS, sites estáticos, pixel perfect rs.
+Em 2013 comecei a estudar um pouco de PHP para poder dar mais poder aos sites que eu fazia, acrescentando assim um pouco mais de dinamismo e maior controle para o cliente final, uma vez que agora ele mesmo poderia editar e acrescentar conteúdos no próprio site.
+
+Em 2014 eu entrei em uma agência no interios onde morava e foi quanto pude focar mais meus estudos em front, começando a jornada em javascript, Jquery, Design responsivo, CSS 3, pré processadores, SEO. Pude trabalhar para clientes bem bacanas, como agências de carros importados, uma grande cerâmica, um jornal local entre outro, foram tempos bem bacanas onde pude aprender e evoluir muito como profissional e pessoa.
+
 Em 2016 me mudei para São Paulo Capital e comecei a atuar numa empresa multinacional como front end analyst developer prestando serviços de Front End para uma empresa Multinacional do setor financeiro, com sede na Espanha. Trabalhamos num projeto que iria atualizar o sistemas utilizados nas agências e no backoffice da companhia, utilizando como base o framework do Google Angular2. Continuei me aprimorando no framework e sempre vendo maneira de melhorar a performance da aplicação, nesse tempo todo que fiquei nesse projeto tive oportunidade de ir desde arquitetura e planejamento, desenvolvimento e depois sustentação do mesmo, foi uma ótima experiência e pude aprender muito com eles.
-Agora no momento estou prestando serviços para uma Empresa aqui em São Caetano do ramo de varejo, onde também estou atuando com angular 2 e num projeto que visa facilitar o dia a dia dos vendedores de suas lojas.
 
 Estudo informática desde os meus 8 anos, sempre gostei de fuçar e aprender coisas novas e já passei por tudo no pc, hardware, design, desenhista projetista, mas foi na programação que me encontrei. O primeiro contato foi com pascal ainda no colegial e depois disso passei a mexer com Delphi e depois aprendi em um curso profissionalizante a fazer sites.
 
 No meu tempo livre eu me dedico a realizar pequenos projetos, que contribuem para meu aprendizado e também para novos conhecimentos, alguns deles pretendo trazer aqui para o github, outros são segredos ;).
 
-Gosto de estar sempre me aprimorando através de eventos e também de livros e sempre que posso busco poder escrever no meu blog ou no médium.
+Gosto de estar sempre me aprimorando através de eventos e também de livros e sempre que posso busco poder escrever no meu blog ou no medium.
 
 Outro hobby que tenho é programar jogos, espero estar trazendo coisas novas em breve, e também andar de bicicleta e ficar babando no meu filhão que está cada dia mais esperto *-*
 
@@ -32,7 +37,8 @@ Outro hobby que tenho é programar jogos, espero estar trazendo coisas novas em 
  * HTML5 e CSS3 (avançado)
  * PHP e MySQL (intermediário, CRUD)
  * Javascript (intermediário)
- * Jquery (ntermediário)
+ * Jquery (intermediário)
+ * Angular (intermediári)
  * Stylus e SASS (intermediário)
  * Design Responsivo (Flexbox s2)
  * Gulp (em projetos pessoais)
